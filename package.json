@@ -68,6 +68,6 @@
   "license": "MIT",
   "overrides": {
     "minimatch": "11.0.1",
-    "tmp": "0.2.6"
+    "tmp": "0.2.7"
   }
 }
